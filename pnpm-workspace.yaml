@@ -1,0 +1,12 @@
+packages:
+    - apps/*
+    - commons/*
+onlyBuiltDependencies:
+    - '@capacitor/background-runner'
+    - '@parcel/watcher'
+    - '@swc/core'
+    - '@tailwindcss/oxide'
+    - canvas
+    - core-js
+    - es5-ext
+    - esbuild
