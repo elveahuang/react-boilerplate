@@ -2,15 +2,15 @@
     "name": "@commons/core",
     "version": "25.1.0",
     "dependencies": {
-        "react": "^19.1.0",
-        "react-dom": "^19.1.0"
+        "react": "^19.1.1",
+        "react-dom": "^19.1.1"
     },
     "devDependencies": {
-        "@tailwindcss/vite": "^4.1.7",
-        "@types/node": "^22.15.21",
-        "@types/react": "^19.1.5",
-        "@types/react-dom": "^19.1.5",
-        "typescript": "^5.8.3",
-        "tailwindcss": "^4.1.7"
+        "@tailwindcss/vite": "^4.1.12",
+        "@types/node": "^24.3.0",
+        "@types/react": "^19.1.10",
+        "@types/react-dom": "^19.1.7",
+        "typescript": "^5.9.2",
+        "tailwindcss": "^4.1.12"
     }
 }
