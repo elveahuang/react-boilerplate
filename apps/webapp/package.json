@@ -9,21 +9,21 @@
         "build:pro": "vite build --mode production"
     },
     "dependencies": {
-        "react": "^19.2.0",
-        "react-dom": "^19.2.0"
+        "react": "^19.2.1",
+        "react-dom": "^19.2.1"
     },
     "devDependencies": {
         "@tailwindcss/vite": "^4.1.17",
         "@types/node": "^24.10.1",
-        "@types/react": "^19.2.6",
+        "@types/react": "^19.2.7",
         "@types/react-dom": "^19.2.3",
         "@vitejs/plugin-react": "^5.1.1",
         "@vitejs/plugin-react-swc": "^4.2.2",
         "tailwindcss": "^4.1.17",
         "typescript": "^5.9.3",
-        "unplugin-auto-import": "^20.2.0",
+        "unplugin-auto-import": "^20.3.0",
         "unplugin-icons": "^22.5.0",
-        "vite": "^7.2.4",
+        "vite": "^7.2.6",
         "vite-plugin-vconsole": "^2.1.1",
         "vite-tsconfig-paths": "^5.1.4"
     }
